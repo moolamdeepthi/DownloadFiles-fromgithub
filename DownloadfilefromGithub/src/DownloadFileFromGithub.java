@@ -75,6 +75,8 @@ public class DownloadFileFromGithub {
 		driver.findElement(By.linkText("Download ZIP")).click();
 		
 			System.out.println("Download ZIP option found. Test status is pass");
+			
+			//added///
 		
 	}
 
